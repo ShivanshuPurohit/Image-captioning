@@ -14,4 +14,4 @@ Code inspired by Udacity's Computer vision nanodegree project on image captionin
 ![](predicted_caption_5.png)       
 
 ## Credit
-Most of the code is based on the Udacity code for CNN models, RNN models and Image Captoining.
+Most of the code is based on the Udacity code for CNN models, RNN models and Image Captioning.
